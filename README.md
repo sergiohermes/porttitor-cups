@@ -1,2 +1,12 @@
 # porttitor-cups
-Entenda o mundo digital, se divide em local, privado e público. Sagas ambiente moderado para impressão digital. ∴
+∴ Dockerize - Service to implement a concept CUPS with PHP ∴ https://porrtitor.github.io
+
+- READ THIS AFTER ALL.
+www.cups.org/lists.php?LIST=cups-devel
+
+## CODE CONDUCT
+
+READ Documentation
+
+https://docs.porttitor.com.br
+
